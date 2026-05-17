@@ -122,7 +122,7 @@ HTTP Request
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/jwt-auth.git
+git clone https://github.com/Shah114/jwt-auth.git
 cd jwt-auth
 ```
 
